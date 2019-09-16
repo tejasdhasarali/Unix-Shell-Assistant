@@ -11,7 +11,7 @@
 
 * The selected page was parsed to find just the required information from the humongous man page information.
 
-* This exact information is shown to the user.
+* This exact information along with the exact command is shown to the user.
 
 * The user will also be given an option to leave feedback by giving a thumbs up or down for the result. This feedback is incorporated into the Page Ranking Algorithm to improve future results.
 
