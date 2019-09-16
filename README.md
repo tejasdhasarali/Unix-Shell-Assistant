@@ -1,7 +1,7 @@
 
 # Unix Shell Assistant
 
-* The project aims to create an assistant that could be used by beginners to get the exact commands when the query is asked right in their Unix terminal in their natural language.
+* The project aims to create an assistant that could be used by beginners to get the exact commands when the query is asked right in their Unix terminal in their natural human language.
 
 * The intent of the user was extracted from the natural language query of the user using NLTK, SpaCy, and TextBlob natural language processing toolkits.
 
